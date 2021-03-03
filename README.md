@@ -8,10 +8,10 @@ I'm currently working on building mobile and web applications for clients using 
 You can hire me to help you on your projects or to help build your next app.
 Reach me via the following:
 
- * [Company Website](https://coalition.software)
- * [Blog](https://mythicalmanmoth.com)
  * [Twitter](https://twitter.com/pietervander)
  * [LinkedIn](https://www.linkedin.com/in/pietervanderwesthuizen)
+ * [Company Website](https://coalition.software)
+ * [Blog](https://mythicalmanmoth.com)
  * [Upwork](https://www.upwork.com/o/profiles/users/~01e3ddb59750a737c0/?viewMode=1)
 
 <!--
