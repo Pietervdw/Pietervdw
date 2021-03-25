@@ -12,7 +12,7 @@ Reach me via the following:
  * [LinkedIn](https://www.linkedin.com/in/pietervanderwesthuizen)
  * [Company Website](https://coalition.software)
  * [Blog](https://mythicalmanmoth.com)
- * [Upwork](https://www.upwork.com/o/profiles/users/~01e3ddb59750a737c0/?viewMode=1)
+ 
 
 <!--
 **Pietervdw/Pietervdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
