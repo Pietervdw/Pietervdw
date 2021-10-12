@@ -14,8 +14,16 @@ Reach me via the following:
  * [Blog](https://mythicalmanmoth.com)
  
 
+
+
+
 <!--
 **Pietervdw/Pietervdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+ ![Pieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pietervdw&count_private=true)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietervdw&langs_count=4)
 
 Here are some ideas to get you started:
 
