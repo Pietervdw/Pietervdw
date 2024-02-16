@@ -8,7 +8,6 @@ I'm currently working on building mobile and web applications for clients using 
 You can hire me to help you on your projects or to help build your next app.
 Reach me via the following:
 
- * [Twitter](https://twitter.com/pietervander)
- * [LinkedIn](https://www.linkedin.com/in/pietervanderwesthuizen)
  * [Company Website](https://coalition.software)
+ * [LinkedIn](https://www.linkedin.com/in/pietervanderwesthuizen)
  * [Blog](https://mythicalmanmoth.com)
