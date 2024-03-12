@@ -10,4 +10,3 @@ Reach me via the following:
 
  * [Company Website](https://coalition.software)
  * [LinkedIn](https://www.linkedin.com/in/pietervanderwesthuizen)
- * [Blog](https://mythicalmanmoth.com)
